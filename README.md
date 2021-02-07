@@ -1,0 +1,2 @@
+# cppcouchdb
+c++ couchdb library
